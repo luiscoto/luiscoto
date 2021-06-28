@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="yop.jpg![image](https://user-images.githubusercontent.com/81122669/123575421-4efa6b80-d797-11eb-8ea0-4ac8a604e767.jpeg)
-" />
-</p>
-
-
-
 ### Hi there 👋
 
 
